@@ -1,6 +1,6 @@
-# Mobile Prefix Checker
+Mobile Prefix Checker in the Philippines
 
-This tool helps identify the mobile network (e.g., Smart, Globe, Sun, etc.) based on the phone number's prefix.  
+"This tool helps identify which telecom provider (e.g., Smart, Globe, Sun, etc.) a phone number belongs to in the Philippines based on its prefix."
 
 ## How to Use
 1. Download the `prefix_checker.py` script.
